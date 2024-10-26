@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/user-attachments/assets/8df98b44-6265-4d1a-8513-c706446ec7e0)
+
+### Name:V.Prithviraj
+### Register Number:212222100038
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
